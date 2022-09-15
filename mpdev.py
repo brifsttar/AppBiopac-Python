@@ -4,6 +4,8 @@ https://github.com/esdalmaijer/MPy150
 
 Credit to @rmarkello for updated version in rtpeaks:
 https://github.com/rmarkello/rtpeaks
+
+Credit to @rderollepot for adding digital channels support
 """
 
 from __future__ import print_function, division, absolute_import
